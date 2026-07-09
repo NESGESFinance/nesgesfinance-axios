@@ -1,4 +1,4 @@
-<h3 align="center">💎 Platinum sponsors <br /></h3>
+<h3 align="center"> Platinum sponsors <br /></h3>
 <table align="center">
     <tr>
         <td align="center" width="50%">
